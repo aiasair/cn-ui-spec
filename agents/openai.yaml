@@ -1,0 +1,3 @@
+interface:
+  display_name: "汉界规则"
+  short_description: "独立中文 UI/UX 规则：排版、克制说明、组件交互、本地化与 AI 开发"
